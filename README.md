@@ -44,4 +44,4 @@ Static Spyder is a powerful open-source toolkit designed for static malware anal
 We welcome contributions from the community. Feel free to open issues, submit pull requests, and engage in discussions to enhance Static Spyder's capabilities.
 
 ## License
-
+This project is licensed under the [MIT License](https://github.com/Shehan-Anuradha/STATICSPYDER/blob/master/LICENSE).
