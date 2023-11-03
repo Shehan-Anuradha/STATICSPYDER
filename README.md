@@ -1,6 +1,6 @@
 # Static Spyder - Malware Analysis Toolkit
 
-![GitHub License](https://img.shields.io/github/license/Shehan-Anuradha/Static-Spyder)
+![GitHub License](https://img.shields.io/github/license/Shehan-Anuradha/STATICSPYDER)
 
 Static Spyder is a powerful open-source toolkit designed for static malware analysis. With features for file integrity verification, entropy analysis, string extraction, and file type identification, it equips security professionals, digital forensics experts, and cybersecurity enthusiasts with the tools needed to uncover and mitigate security threats.
 
